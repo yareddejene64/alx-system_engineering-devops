@@ -1,2 +1,2 @@
 #!/bin/bash
--i --mime-type -m school.mgc
+0 string school school data file -c -m school
